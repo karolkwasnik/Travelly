@@ -97,7 +97,7 @@ nav ul {
   color: white;
   min-height: 90vh;
   background: linear-gradient(rgba(0, 0, 0, 0.8), transparent),
-    url("_img/landing-page.jpg");
+    url("https://karolkwasnik.github.io/Travelly/img/landing-page.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -115,7 +115,7 @@ nav ul {
 #locations {
   min-height: 100vh;
   background: linear-gradient(rgba(0, 0, 0, 0.5), transparent),
-    url("_img/new-york-page.png");
+    url(https://karolkwasnik.github.io/Travelly/img/new-york-page.png");
   background-size: cover;
   background-position: center;
   display: flex;
@@ -214,7 +214,7 @@ nav ul {
 #contact {
   min-height: 100vh;
   background: linear-gradient(rgba(0, 0, 0, 0.5), transparent),
-    url("_img/contact-mountain.png");
+    url("https://karolkwasnik.github.io/Travelly/img/contact-mountain.png");
   background-size: cover;
   background-position: center;
   display: flex;
