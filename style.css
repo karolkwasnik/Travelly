@@ -114,7 +114,7 @@ nav ul {
 
 #locations {
   min-height: 100vh;
-  background: linear-gradient(rgba(0, 0, 0, 0.5), transparent),
+  background: linear-gradient(rgba(0, 0, 0, 0.51), transparent),
     url("https://karolkwasnik.github.io/Travelly/img/new-york-page.png");
   background-size: cover;
   background-position: center;
